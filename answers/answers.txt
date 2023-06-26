@@ -1,0 +1,28 @@
+
+
+Test Results:
+Name: Stanislav
+Start time: 2023-06-25 23:40:16
+Total Questions: 4
+Correct Answers: 2
+Incorrect Answers: 2
+Accuracy: 50.0% good job
+
+
+Test Results:
+Name: Stanislav
+Start time: 2023-06-26 10:02:53
+Total Questions: 4
+Correct Answers: 1
+Incorrect Answers: 3
+Accuracy: 25.0% take another shot
+
+
+Test Results:
+Name: Stanislav
+Start time: 2023-06-26 10:04:22
+Total Questions: 4
+Correct Answers: 2
+Incorrect Answers: 2
+Accuracy: 50.0% good job
+

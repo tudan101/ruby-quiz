@@ -1,0 +1,31 @@
+- question: "Which city is located at the mouth of the Amazon River?"
+  answers:
+    - Rio de Janeiro
+    - Buenos Aires
+    - Lima
+    - Belem
+  correct_answer: Belem
+
+- question: "Which African country is known as the 'Land of a Thousand Hills'?"
+  answers:
+    - Kenya
+    - Rwanda
+    - Morocco
+    - Ethiopia
+  correct_answer: Rwanda
+
+- question: "What is the largest desert in the world?"
+  answers:
+    - Sahara Desert
+    - Gobi Desert
+    - Arabian Desert
+    - Kalahari Desert
+  correct_answer: Sahara Desert
+
+- question: "The Great Wall of China was primarily built to defend against invasions from which group?"
+  answers:
+    - Mongols
+    - Vikings
+    - Persians
+    - Romans
+  correct_answer: Mongols
